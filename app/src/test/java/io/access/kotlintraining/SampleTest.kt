@@ -24,6 +24,6 @@ class SampleTest {
 //    }
 
     fun hello(){
-        println("HEllo Wortld")
+        println("HEllo World")
     }
 }
